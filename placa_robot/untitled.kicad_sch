@@ -3158,7 +3158,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d69c251c-c410-42f0-9aa6-d4380c1087a8")
-		(property "Reference" "#PWR"
+		(property "Reference" "#PWR014"
 			(at 173.99 95.25 0)
 			(effects
 				(font
@@ -3205,6 +3205,13 @@
 		(pin "1"
 			(uuid "5f79b1fd-ed63-4085-b802-904babd5ef41")
 		)
-		(instances)
+		(instances
+			(project "placa_robot"
+				(path "/8aa50d15-d96a-41b3-aa5f-664bff39212d/f529e0ca-75fe-4dee-9e3b-8585eb1d2036"
+					(reference "#PWR014")
+					(unit 1)
+				)
+			)
+		)
 	)
 )
