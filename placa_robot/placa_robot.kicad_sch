@@ -3,7 +3,7 @@
 	(generator "eeschema")
 	(generator_version "9.0")
 	(uuid "8aa50d15-d96a-41b3-aa5f-664bff39212d")
-	(paper "A4")
+	(paper "A3")
 	(lib_symbols
 		(symbol "MiSE:MSP430FR2355TPT"
 			(exclude_from_sim no)
@@ -1008,7 +1008,7 @@
 	)
 	(text "Placa MiSE"
 		(exclude_from_sim no)
-		(at 194.31 189.738 0)
+		(at 317.246 276.606 0)
 		(effects
 			(font
 				(size 1.778 1.778)
@@ -1018,7 +1018,7 @@
 	)
 	(text "Eric Trejo\nAlex Yang"
 		(exclude_from_sim no)
-		(at 185.928 175.26 0)
+		(at 308.864 262.128 0)
 		(effects
 			(font
 				(face "KiCad Font")
@@ -1030,7 +1030,7 @@
 	)
 	(text "19/02/26"
 		(exclude_from_sim no)
-		(at 211.582 193.548 0)
+		(at 334.518 280.416 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1040,23 +1040,13 @@
 	)
 	(text "Autors"
 		(exclude_from_sim no)
-		(at 182.118 168.656 0)
+		(at 305.054 255.524 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 		)
 		(uuid "c9ecb16d-e96c-4945-96f8-c1fb3c3f030a")
-	)
-	(label "TONTO"
-		(at 189.23 80.01 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "b25d1429-d3ad-4099-a78a-78d568454411")
 	)
 	(symbol
 		(lib_id "MiSE:MSP430FR2355TPT")
