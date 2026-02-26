@@ -1048,6 +1048,116 @@
 		)
 		(uuid "c9ecb16d-e96c-4945-96f8-c1fb3c3f030a")
 	)
+	(global_label "Joystick_Left"
+		(shape input)
+		(at 294.64 140.97 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "22dbe7a8-8e1f-4f54-a72b-592286d497bf")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 309.7204 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Joystick_Boton"
+		(shape input)
+		(at 297.18 157.48 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6e5e73ef-11da-48de-9fa8-65620172d407")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 314.135 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Joystick_Up"
+		(shape input)
+		(at 295.91 147.32 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8adbb602-3062-4622-b754-a72f0857b588")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 309.9018 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Joystick_Right"
+		(shape input)
+		(at 294.64 135.89 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "900f73a8-3d1e-493b-8e4d-d9bb1bddb932")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 311.0508 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Joystick_Down"
+		(shape input)
+		(at 298.45 152.4 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "99e283d4-4af3-4e17-9cdd-5b5ed49af6a6")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 314.8608 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(symbol
 		(lib_id "MiSE:MSP430FR2355TPT")
 		(at 138.43 124.46 0)
@@ -1321,6 +1431,48 @@
 				(path "/8aa50d15-d96a-41b3-aa5f-664bff39212d"
 					(reference "IC1")
 					(unit 1)
+				)
+			)
+		)
+	)
+	(sheet
+		(at 308.61 179.07)
+		(size 25.4 15.24)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f529e0ca-75fe-4dee-9e3b-8585eb1d2036")
+		(property "Sheetname" "Joystick"
+			(at 308.61 178.3584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 308.61 194.8946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "placa_robot"
+				(path "/8aa50d15-d96a-41b3-aa5f-664bff39212d"
+					(page "2")
 				)
 			)
 		)
