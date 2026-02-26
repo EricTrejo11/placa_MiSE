@@ -1048,6 +1048,16 @@
 		)
 		(uuid "c9ecb16d-e96c-4945-96f8-c1fb3c3f030a")
 	)
+	(label "TONTO"
+		(at 189.23 80.01 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b25d1429-d3ad-4099-a78a-78d568454411")
+	)
 	(symbol
 		(lib_id "MiSE:MSP430FR2355TPT")
 		(at 59.69 80.01 0)
