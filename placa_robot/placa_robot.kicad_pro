@@ -357,6 +357,9 @@
       "Net-(IC1-~{RST}{slash}NMI{slash}SBWTDIO)": [
         "senyal"
       ],
+      "Net-(J3-Pin_6)": [
+        "senyal"
+      ],
       "Net-(S2-2')": [
         "senyal"
       ],
