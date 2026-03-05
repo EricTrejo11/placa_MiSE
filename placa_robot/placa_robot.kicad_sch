@@ -4458,6 +4458,16 @@
 	)
 	(wire
 		(pts
+			(xy 199.39 59.69) (xy 199.39 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2c3df6da-e5db-4463-bf74-fd77f23b69d7")
+	)
+	(wire
+		(pts
 			(xy 130.81 119.38) (xy 130.81 124.46)
 		)
 		(stroke
@@ -4638,6 +4648,16 @@
 	)
 	(wire
 		(pts
+			(xy 214.63 63.5) (xy 214.63 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "50ea1e98-4581-45d9-971a-1e02025238c6")
+	)
+	(wire
+		(pts
 			(xy 214.63 259.08) (xy 214.63 273.05)
 		)
 		(stroke
@@ -4788,6 +4808,16 @@
 	)
 	(wire
 		(pts
+			(xy 218.44 59.69) (xy 199.39 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "67d0c488-0888-4dfc-9b01-a4a224fbfcfc")
+	)
+	(wire
+		(pts
 			(xy 274.32 152.4) (xy 274.32 149.86)
 		)
 		(stroke
@@ -4818,6 +4848,16 @@
 	)
 	(wire
 		(pts
+			(xy 218.44 63.5) (xy 214.63 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6afeceab-d869-4361-80ef-9133821225c9")
+	)
+	(wire
+		(pts
 			(xy 267.97 147.32) (xy 275.59 147.32)
 		)
 		(stroke
@@ -4845,6 +4885,16 @@
 			(type default)
 		)
 		(uuid "6de40c42-31af-4760-987f-52e8ea8f38c8")
+	)
+	(wire
+		(pts
+			(xy 218.44 55.88) (xy 196.85 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6ec47afc-3a3d-4957-95cb-a4064c693b60")
 	)
 	(wire
 		(pts
@@ -4905,6 +4955,16 @@
 			(type default)
 		)
 		(uuid "7eeae6dd-62f5-48bb-a53b-973b42e4a7ac")
+	)
+	(wire
+		(pts
+			(xy 196.85 55.88) (xy 196.85 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "80be35fa-6595-48c7-9a29-6d11322a2daa")
 	)
 	(wire
 		(pts
@@ -5038,6 +5098,16 @@
 	)
 	(wire
 		(pts
+			(xy 217.17 67.31) (xy 217.17 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "930d7c4b-77f2-4567-9a08-8d483b90afac")
+	)
+	(wire
+		(pts
 			(xy 54.61 220.98) (xy 54.61 219.71)
 		)
 		(stroke
@@ -5055,6 +5125,16 @@
 			(type default)
 		)
 		(uuid "94446f53-06cf-43a5-b413-502bb04645fe")
+	)
+	(wire
+		(pts
+			(xy 194.31 52.07) (xy 194.31 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9785fc6f-514a-4462-aa99-e6997daaf742")
 	)
 	(wire
 		(pts
@@ -5628,6 +5708,16 @@
 	)
 	(wire
 		(pts
+			(xy 218.44 52.07) (xy 194.31 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eef84291-48ba-4ff1-8690-6dc99951460f")
+	)
+	(wire
+		(pts
 			(xy 189.23 241.3) (xy 189.23 200.66)
 		)
 		(stroke
@@ -5675,6 +5765,16 @@
 			(type default)
 		)
 		(uuid "fa35e849-70b2-40d3-964c-4bfaf36e4b7d")
+	)
+	(wire
+		(pts
+			(xy 218.44 67.31) (xy 217.17 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fa582824-a4fc-4a5b-9799-9aac596f8dcc")
 	)
 	(wire
 		(pts
@@ -5778,7 +5878,7 @@
 	)
 	(global_label "Joystick_Left"
 		(shape input)
-		(at 295.91 135.89 0)
+		(at 218.44 55.88 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5788,7 +5888,7 @@
 		)
 		(uuid "22dbe7a8-8e1f-4f54-a72b-592286d497bf")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 310.9904 135.89 0)
+			(at 233.5204 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5844,7 +5944,7 @@
 	)
 	(global_label "Joystick_Boton"
 		(shape input)
-		(at 295.91 143.51 0)
+		(at 218.44 67.31 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5854,7 +5954,7 @@
 		)
 		(uuid "6e5e73ef-11da-48de-9fa8-65620172d407")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 312.865 143.51 0)
+			(at 235.395 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5866,7 +5966,7 @@
 	)
 	(global_label "Joystick_Up"
 		(shape input)
-		(at 295.91 140.97 0)
+		(at 218.44 63.5 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5876,7 +5976,7 @@
 		)
 		(uuid "8adbb602-3062-4622-b754-a72f0857b588")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 309.9018 140.97 0)
+			(at 232.4318 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5888,7 +5988,7 @@
 	)
 	(global_label "Joystick_Right"
 		(shape input)
-		(at 295.91 133.35 0)
+		(at 218.44 52.07 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5898,7 +5998,7 @@
 		)
 		(uuid "900f73a8-3d1e-493b-8e4d-d9bb1bddb932")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 312.3208 133.35 0)
+			(at 234.8508 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5910,7 +6010,7 @@
 	)
 	(global_label "Joystick_Down"
 		(shape input)
-		(at 295.91 138.43 0)
+		(at 218.44 59.69 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5920,7 +6020,7 @@
 		)
 		(uuid "99e283d4-4af3-4e17-9cdd-5b5ed49af6a6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 312.3208 138.43 0)
+			(at 234.8508 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
