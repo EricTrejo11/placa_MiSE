@@ -255,7 +255,7 @@
   "net_settings": {
     "classes": [
       {
-        "bus_width": 12,
+        "bus_width": 0,
         "clearance": 0.2,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
@@ -271,14 +271,119 @@
         "via_diameter": 0.6,
         "via_drill": 0.3,
         "wire_width": 6
+      },
+      {
+        "bus_width": 1,
+        "name": "Alimentcion",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 0,
+        "schematic_color": "rgb(255, 0, 20)",
+        "wire_width": 6
+      },
+      {
+        "bus_width": 0,
+        "name": "senyal",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 1,
+        "schematic_color": "rgb(0, 223, 255)",
+        "wire_width": 6
       }
     ],
     "meta": {
       "version": 4
     },
     "net_colors": null,
-    "netclass_assignments": null,
-    "netclass_patterns": []
+    "netclass_assignments": {
+      "/P0": [
+        "senyal"
+      ],
+      "/P1": [
+        "senyal"
+      ],
+      "/P12": [
+        "senyal"
+      ],
+      "/P2": [
+        "senyal"
+      ],
+      "/P8": [
+        "senyal"
+      ],
+      "/SCL": [
+        "senyal"
+      ],
+      "/SDA": [
+        "senyal"
+      ],
+      "Net-(IC1-P2.6{slash}MCLK{slash}XOUT)": [
+        "senyal"
+      ],
+      "Net-(IC1-P2.7{slash}TB0CLK{slash}XIN)": [
+        "senyal"
+      ],
+      "Net-(IC1-P3.1{slash}OA2O)": [
+        "senyal"
+      ],
+      "Net-(IC1-P3.2{slash}OA2-)": [
+        "senyal"
+      ],
+      "Net-(IC1-P3.3{slash}OA2+)": [
+        "senyal"
+      ],
+      "Net-(IC1-P3.4{slash}SMCLK)": [
+        "senyal"
+      ],
+      "Net-(IC1-P3.5{slash}OA3O)": [
+        "senyal"
+      ],
+      "Net-(IC1-P4.2{slash}UCA1RXD{slash}UCA1SOMI{slash}~{UCA1RXD})": [
+        "senyal"
+      ],
+      "Net-(IC1-P4.3{slash}UCA1TXD{slash}UCA1SIMO{slash}~{UCA1TXD})": [
+        "senyal"
+      ],
+      "Net-(IC1-P5.0{slash}TB2.1{slash}MFM.RX{slash}A8)": [
+        "senyal"
+      ],
+      "Net-(IC1-P5.1{slash}TB2.2{slash}MFM.TX{slash}A9)": [
+        "senyal"
+      ],
+      "Net-(IC1-P6.5{slash}TB3.6)": [
+        "senyal"
+      ],
+      "Net-(IC1-TEST{slash}SBWTCK)": [
+        "senyal"
+      ],
+      "Net-(IC1-~{RST}{slash}NMI{slash}SBWTDIO)": [
+        "senyal"
+      ],
+      "Net-(S2-2')": [
+        "senyal"
+      ],
+      "Net-(U3A-+)": [
+        "senyal"
+      ],
+      "Net-(U3B--)": [
+        "senyal"
+      ],
+      "Net-(U4A--)": [
+        "senyal"
+      ]
+    },
+    "netclass_patterns": [
+      {
+        "netclass": "Alimentcion",
+        "pattern": "GND"
+      },
+      {
+        "netclass": "Alimentcion",
+        "pattern": "+3.3V"
+      },
+      {
+        "netclass": "senyal",
+        "pattern": "Joystick_boton"
+      }
+    ]
   },
   "pcbnew": {
     "last_paths": {
@@ -411,10 +516,6 @@
     [
       "8aa50d15-d96a-41b3-aa5f-664bff39212d",
       "Root"
-    ],
-    [
-      "f529e0ca-75fe-4dee-9e3b-8585eb1d2036",
-      "Joystick"
     ]
   ],
   "text_variables": {}
