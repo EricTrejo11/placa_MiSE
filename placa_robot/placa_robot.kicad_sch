@@ -4101,6 +4101,12 @@
 		(uuid "5ae83620-331f-4099-864e-c9a8b2f59dd5")
 	)
 	(junction
+		(at 353.06 99.06)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5ef93a83-1ab4-4c8a-8b4b-27df2d69cef3")
+	)
+	(junction
 		(at 82.55 226.06)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4147,6 +4153,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9e1351d9-e2b1-486a-9f11-75baedaa5769")
+	)
+	(junction
+		(at 327.66 87.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ad1a3521-eb1b-4905-a8b4-cfbad9e0c74c")
 	)
 	(junction
 		(at 127 142.24)
@@ -4768,16 +4780,6 @@
 	)
 	(wire
 		(pts
-			(xy 346.71 95.25) (xy 351.79 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "65f1e552-189b-4135-900e-27a3b64f0c47")
-	)
-	(wire
-		(pts
 			(xy 127 143.51) (xy 127 142.24)
 		)
 		(stroke
@@ -5138,6 +5140,16 @@
 	)
 	(wire
 		(pts
+			(xy 353.06 104.14) (xy 353.06 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "97a12999-4a87-4737-9952-451ac1bf6298")
+	)
+	(wire
+		(pts
 			(xy 214.63 273.05) (xy 267.97 273.05)
 		)
 		(stroke
@@ -5178,7 +5190,7 @@
 	)
 	(wire
 		(pts
-			(xy 330.2 87.63) (xy 334.01 87.63)
+			(xy 325.12 87.63) (xy 327.66 87.63)
 		)
 		(stroke
 			(width 0)
@@ -5458,6 +5470,26 @@
 	)
 	(wire
 		(pts
+			(xy 327.66 82.55) (xy 327.66 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cb73ae43-ae27-4787-9d73-ec9250777d04")
+	)
+	(wire
+		(pts
+			(xy 353.06 99.06) (xy 353.06 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cb7cc786-db76-4d31-986a-8e7adbf62aaa")
+	)
+	(wire
+		(pts
 			(xy 111.76 142.24) (xy 116.84 142.24)
 		)
 		(stroke
@@ -5545,6 +5577,16 @@
 			(type default)
 		)
 		(uuid "d2f5ac89-bc16-4d99-bf25-55cac097904c")
+	)
+	(wire
+		(pts
+			(xy 353.06 95.25) (xy 346.71 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d793e44f-50e8-4eae-bd70-12034d2bd7d3")
 	)
 	(wire
 		(pts
@@ -5678,6 +5720,16 @@
 	)
 	(wire
 		(pts
+			(xy 353.06 99.06) (xy 359.41 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ed5a2df7-d100-4677-a533-aada872cd8c1")
+	)
+	(wire
+		(pts
 			(xy 119.38 234.95) (xy 119.38 241.3)
 		)
 		(stroke
@@ -5725,6 +5777,16 @@
 			(type default)
 		)
 		(uuid "f035cb59-512d-4324-97f5-f9d7b7802445")
+	)
+	(wire
+		(pts
+			(xy 327.66 87.63) (xy 334.01 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f1710553-965d-446a-b6bf-3eaedcc0d427")
 	)
 	(wire
 		(pts
@@ -5900,7 +5962,7 @@
 	)
 	(global_label "U0RXD"
 		(shape input)
-		(at 330.2 87.63 180)
+		(at 325.12 87.63 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5910,7 +5972,7 @@
 		)
 		(uuid "454c636e-afee-4dde-9ae3-c809316b72f4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 320.9253 87.63 0)
+			(at 315.8453 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5922,7 +5984,7 @@
 	)
 	(global_label "U0TXD"
 		(shape input)
-		(at 351.79 95.25 0)
+		(at 353.06 104.14 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5932,7 +5994,7 @@
 		)
 		(uuid "5e43fb1a-3412-463b-a9a5-9b46ebe93cea")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 360.7623 95.25 0)
+			(at 362.0323 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6609,6 +6671,73 @@
 			(project "placa_robot"
 				(path "/8aa50d15-d96a-41b3-aa5f-664bff39212d"
 					(reference "R10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 359.41 99.06 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3edd722f-e1d3-49de-b56a-67ba3d03696b")
+		(property "Reference" "TP13"
+			(at 367.284 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 370.586 97.282 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 354.33 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 354.33 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 359.41 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "23d4106c-3c10-4d41-a948-a6b125213341")
+		)
+		(instances
+			(project "placa_robot"
+				(path "/8aa50d15-d96a-41b3-aa5f-664bff39212d"
+					(reference "TP13")
 					(unit 1)
 				)
 			)
@@ -8607,6 +8736,72 @@
 			(project "placa_robot"
 				(path "/8aa50d15-d96a-41b3-aa5f-664bff39212d"
 					(reference "LCD1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 327.66 82.55 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c2739248-11b8-48a0-83c9-bf51e2d18187")
+		(property "Reference" "TP10"
+			(at 319.786 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 316.484 80.772 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 332.74 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 332.74 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 327.66 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4ae7052d-5e4c-417b-8cad-e808ddc911d4")
+		)
+		(instances
+			(project "placa_robot"
+				(path "/8aa50d15-d96a-41b3-aa5f-664bff39212d"
+					(reference "TP10")
 					(unit 1)
 				)
 			)
