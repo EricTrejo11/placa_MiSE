@@ -273,19 +273,27 @@
         "wire_width": 6
       },
       {
-        "bus_width": 1,
+        "bus_width": 30,
         "name": "Alimentcion",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 0,
+        "priority": 1,
         "schematic_color": "rgb(255, 0, 20)",
         "wire_width": 6
       },
       {
-        "bus_width": 0,
+        "bus_width": 20,
         "name": "senyal",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 1,
+        "priority": 2,
         "schematic_color": "rgb(0, 223, 255)",
+        "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "name": "senyal micro",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 0,
+        "schematic_color": "rgb(39, 0, 255)",
         "wire_width": 6
       }
     ],
@@ -295,67 +303,67 @@
     "net_colors": null,
     "netclass_assignments": {
       "/P0": [
-        "senyal"
+        "senyal micro"
       ],
       "/P1": [
-        "senyal"
+        "senyal micro"
       ],
       "/P12": [
-        "senyal"
+        "senyal micro"
       ],
       "/P2": [
-        "senyal"
+        "senyal micro"
       ],
       "/P8": [
-        "senyal"
+        "senyal micro"
       ],
       "/SCL": [
-        "senyal"
+        "senyal micro"
       ],
       "/SDA": [
-        "senyal"
+        "senyal micro"
       ],
       "Net-(IC1-P2.6{slash}MCLK{slash}XOUT)": [
-        "senyal"
+        "senyal micro"
       ],
       "Net-(IC1-P2.7{slash}TB0CLK{slash}XIN)": [
-        "senyal"
+        "senyal micro"
       ],
       "Net-(IC1-P3.1{slash}OA2O)": [
-        "senyal"
+        "senyal micro"
       ],
       "Net-(IC1-P3.2{slash}OA2-)": [
-        "senyal"
+        "senyal micro"
       ],
       "Net-(IC1-P3.3{slash}OA2+)": [
-        "senyal"
+        "senyal micro"
       ],
       "Net-(IC1-P3.4{slash}SMCLK)": [
-        "senyal"
+        "senyal micro"
       ],
       "Net-(IC1-P3.5{slash}OA3O)": [
-        "senyal"
+        "senyal micro"
       ],
       "Net-(IC1-P4.2{slash}UCA1RXD{slash}UCA1SOMI{slash}~{UCA1RXD})": [
-        "senyal"
+        "senyal micro"
       ],
       "Net-(IC1-P4.3{slash}UCA1TXD{slash}UCA1SIMO{slash}~{UCA1TXD})": [
-        "senyal"
+        "senyal micro"
       ],
       "Net-(IC1-P5.0{slash}TB2.1{slash}MFM.RX{slash}A8)": [
-        "senyal"
+        "senyal micro"
       ],
       "Net-(IC1-P5.1{slash}TB2.2{slash}MFM.TX{slash}A9)": [
-        "senyal"
+        "senyal micro"
       ],
       "Net-(IC1-P6.5{slash}TB3.6)": [
-        "senyal"
+        "senyal micro"
       ],
       "Net-(IC1-TEST{slash}SBWTCK)": [
-        "senyal"
+        "senyal micro"
       ],
       "Net-(IC1-~{RST}{slash}NMI{slash}SBWTDIO)": [
-        "senyal"
+        "senyal micro"
       ],
       "Net-(J3-Pin_6)": [
         "senyal"
