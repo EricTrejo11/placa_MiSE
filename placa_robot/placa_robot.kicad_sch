@@ -4465,7 +4465,7 @@
 	)
 	(text "Pull-up per \nel Chip Enable\n"
 		(exclude_from_sim no)
-		(at 319.786 206.756 0)
+		(at 323.596 206.248 0)
 		(effects
 			(font
 				(size 1.27 1.27)
