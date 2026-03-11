@@ -7364,7 +7364,7 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
-		(at 205.74 60.96 0)
+		(at 253.3135 210.82 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7372,18 +7372,19 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "0bad9f07-372a-4b3a-9afc-4c48d52f4e8e")
-		(property "Netclass" "senyal micro"
-			(at 206.4385 58.42 0)
+		(uuid "0ae361cf-62d3-4252-b4d4-fed343fd3590")
+		(property "Netclass" "senyal"
+			(at 254.012 208.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Component Class" ""
-			(at -243.84 -13.97 0)
+			(at -85.7765 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7395,7 +7396,7 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
-		(at 275.59 205.74 0)
+		(at 290.83 58.42 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7403,18 +7404,51 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "0c785f21-6219-47c9-b891-6946c4649bf0")
-		(property "Netclass" "senyal micro"
-			(at 276.2885 203.2 0)
+		(uuid "0bf0b5e9-c49c-435f-932b-e3ac14755097")
+		(property "Netclass" "senyal"
+			(at 291.5285 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Component Class" ""
-			(at -173.99 130.81 0)
+			(at -48.26 -81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 259.08 215.9 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "1726cd46-4941-4628-bf9d-a15c8885078a")
+		(property "Netclass" "senyal"
+			(at 259.7785 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Component Class" ""
+			(at -80.01 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7458,7 +7492,7 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
-		(at 125.73 143.51 0)
+		(at 176.53 240.03 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7466,18 +7500,19 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "201ea73c-1161-4cde-bd9b-9ec59dcd228f")
-		(property "Netclass" "senyal micro"
-			(at 126.4285 140.97 0)
+		(uuid "219a3951-e397-4fc0-b829-8810b278e6db")
+		(property "Netclass" "senyal"
+			(at 177.2285 237.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Component Class" ""
-			(at -323.85 68.58 0)
+			(at -162.56 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7489,7 +7524,7 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
-		(at 125.73 120.65 0)
+		(at 275.59 205.74 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7497,49 +7532,19 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "28f4aa07-81eb-4086-9834-fea961e819f0")
-		(property "Netclass" "senyal micro"
-			(at 126.4285 118.11 0)
+		(uuid "22299225-8ab0-4e01-be4d-c1c849056411")
+		(property "Netclass" "senyal"
+			(at 276.2885 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Component Class" ""
-			(at -323.85 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-			)
-		)
-	)
-	(netclass_flag ""
-		(length 2.54)
-		(shape round)
-		(at 256.54 213.36 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "2ae9e3f6-047a-454f-b52f-3370f8b23f90")
-		(property "Netclass" "senyal micro"
-			(at 257.2385 210.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Component Class" ""
-			(at -193.04 138.43 0)
+			(at -63.5 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7583,7 +7588,7 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
-		(at 208.28 63.5 0)
+		(at 393.7 80.01 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7591,18 +7596,19 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "32c8b775-dafe-444f-8466-8ca2c79f1750")
-		(property "Netclass" "senyal micro"
-			(at 208.9785 60.96 0)
+		(uuid "349621a4-c8f0-4506-b98f-06d28ddc02dd")
+		(property "Netclass" "senyal"
+			(at 394.3985 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Component Class" ""
-			(at -241.3 -11.43 0)
+			(at 54.61 -59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7614,7 +7620,7 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
-		(at 398.78 80.01 0)
+		(at 125.73 120.65 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7622,18 +7628,19 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "40bb99e1-ea74-4913-bb3a-025ef08890b4")
-		(property "Netclass" "senyal micro"
-			(at 399.4785 77.47 0)
+		(uuid "3e36c067-3629-438a-9c75-129bab4c28db")
+		(property "Netclass" "senyal"
+			(at 126.4285 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Component Class" ""
-			(at -50.8 5.08 0)
+			(at -213.36 -19.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7645,7 +7652,7 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
-		(at 190.5 58.5227 0)
+		(at 261.4229 218.44 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7653,18 +7660,19 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "5031539d-7535-4a62-a9a8-aa4afff19844")
-		(property "Netclass" "senyal micro"
-			(at 191.1985 55.9827 0)
+		(uuid "5ddf520e-c763-45f6-9bc9-d49908644f2a")
+		(property "Netclass" "senyal"
+			(at 262.1214 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Component Class" ""
-			(at -259.08 -16.4073 0)
+			(at -77.6671 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7676,7 +7684,7 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
-		(at 261.62 218.44 0)
+		(at 128.27 151.13 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7684,18 +7692,19 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "5f42cd16-6c1d-43ff-9de8-01127c71e5f6")
-		(property "Netclass" "senyal micro"
-			(at 262.3185 215.9 0)
+		(uuid "71334a64-c674-41f9-9655-9fb6bef9c26d")
+		(property "Netclass" "senyal"
+			(at 128.9685 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Component Class" ""
-			(at -187.96 143.51 0)
+			(at -210.82 11.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7707,7 +7716,7 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
-		(at 193.04 66.1173 0)
+		(at 256.2097 213.36 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7715,18 +7724,51 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "6c346c49-12fa-404d-9553-2e3ef4bf174d")
-		(property "Netclass" "senyal micro"
-			(at 193.7385 63.5773 0)
+		(uuid "82da786f-30e8-4c0a-8c35-bdfc05b050ee")
+		(property "Netclass" "senyal"
+			(at 256.9082 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Component Class" ""
-			(at -256.54 -8.8127 0)
+			(at -82.8803 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 290.826 60.96 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "84c38060-cfc8-4b89-8fbd-071d7766cae1")
+		(property "Netclass" "senyal"
+			(at 291.5245 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Component Class" ""
+			(at -48.264 -78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7770,6 +7812,70 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
+		(at 113.2874 66.04 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "97472f62-cb48-4802-bfce-e137e7bdaa1e")
+		(property "Netclass" "senyal"
+			(at 113.9859 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Component Class" ""
+			(at -225.8026 -73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 121.92 133.35 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9cb3f569-8114-4feb-95c1-cd83b6919957")
+		(property "Netclass" "senyal"
+			(at 122.6185 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Component Class" ""
+			(at -217.17 -6.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
 		(at 307.34 208.28 0)
 		(fields_autoplaced yes)
 		(effects
@@ -7802,285 +7908,6 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
-		(at 123.19 140.97 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "a158e53b-94e4-46d6-8262-2be642d1f481")
-		(property "Netclass" "senyal micro"
-			(at 123.8885 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Component Class" ""
-			(at -326.39 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-			)
-		)
-	)
-	(netclass_flag ""
-		(length 2.54)
-		(shape round)
-		(at 397.51 58.42 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "b6818948-0539-4887-a619-5eba420a1e44")
-		(property "Netclass" "senyal micro"
-			(at 398.2085 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Component Class" ""
-			(at -52.07 -16.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-			)
-		)
-	)
-	(netclass_flag ""
-		(length 2.54)
-		(shape round)
-		(at 195.5795 63.5 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "bd525bb3-8869-4c1a-916a-69afbc93c41b")
-		(property "Netclass" "senyal micro"
-			(at 196.278 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Component Class" ""
-			(at -254.0005 -11.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-			)
-		)
-	)
-	(netclass_flag ""
-		(length 2.54)
-		(shape round)
-		(at 259.08 215.9 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "beb0cd45-b1e5-42a9-8623-b3fab2d04ade")
-		(property "Netclass" "senyal micro"
-			(at 259.7785 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Component Class" ""
-			(at -190.5 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-			)
-		)
-	)
-	(netclass_flag ""
-		(length 2.54)
-		(shape round)
-		(at 184.15 240.03 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "c45285b1-93d4-4de5-8ebd-9a4a52ce38a3")
-		(property "Netclass" "senyal micro"
-			(at 184.8485 237.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Component Class" ""
-			(at -265.43 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-			)
-		)
-	)
-	(netclass_flag ""
-		(length 2.54)
-		(shape round)
-		(at 135.89 204.47 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "d5bb45b8-1599-409b-bc8b-47dd619aafe8")
-		(property "Netclass" "senyal micro"
-			(at 136.5885 201.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Component Class" ""
-			(at -313.69 129.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-			)
-		)
-	)
-	(netclass_flag ""
-		(length 2.54)
-		(shape round)
-		(at 205.74 237.49 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "d702269d-9bca-4ed8-b45f-388f9db569a6")
-		(property "Netclass" "senyal micro"
-			(at 206.4385 234.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Component Class" ""
-			(at -243.84 162.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-			)
-		)
-	)
-	(netclass_flag ""
-		(length 2.54)
-		(shape round)
-		(at 123.19 133.35 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "dbc80cfa-694d-47c4-b017-a9e71ebe3019")
-		(property "Netclass" "senyal micro"
-			(at 123.8885 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Component Class" ""
-			(at -326.39 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-			)
-		)
-	)
-	(netclass_flag ""
-		(length 2.54)
-		(shape round)
-		(at 273.8208 203.2 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "e4d1a878-1f7f-4d2e-a0dc-ba4cce22cd60")
-		(property "Netclass" "senyal micro"
-			(at 274.5193 200.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Component Class" ""
-			(at -175.7592 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-			)
-		)
-	)
-	(netclass_flag ""
-		(length 2.54)
-		(shape round)
 		(at 251.46 208.28 0)
 		(fields_autoplaced yes)
 		(effects
@@ -8089,18 +7916,211 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "e66591a0-bead-4f43-8125-d67c1cc72464")
-		(property "Netclass" "senyal micro"
+		(uuid "a1673fa0-273b-4c96-8077-04168c9d6428")
+		(property "Netclass" "senyal"
 			(at 252.1585 205.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Component Class" ""
-			(at -198.12 133.35 0)
+			(at -87.63 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 184.15 204.47 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a39e461b-42e8-4639-bc60-73019d87b004")
+		(property "Netclass" "senyal"
+			(at 184.8485 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Component Class" ""
+			(at -154.94 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 125.73 143.51 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b9be076d-0475-4ed3-8c0b-bacfe8153f32")
+		(property "Netclass" "senyal"
+			(at 126.4285 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Component Class" ""
+			(at -213.36 3.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 123.19 140.97 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "bb892879-ff3d-4b6c-a89f-ca2a8b6a3dff")
+		(property "Netclass" "senyal"
+			(at 123.8885 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Component Class" ""
+			(at -215.9 1.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 393.7 58.42 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ca43c315-9438-4f1c-9c4b-f618e198eb25")
+		(property "Netclass" "senyal"
+			(at 394.3985 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Component Class" ""
+			(at 54.61 -81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 311.15 146.05 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "cab2f88e-1290-4096-babd-d49f15278de6")
+		(property "Netclass" "senyal"
+			(at 311.8485 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Component Class" ""
+			(at -27.94 6.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 110.49 63.5 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d759dbbc-de70-482a-a96f-83d510a28566")
+		(property "Netclass" "senyal"
+			(at 111.1885 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Component Class" ""
+			(at -228.6 -76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8144,7 +8164,7 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
-		(at 254 210.82 0)
+		(at 261.62 203.2 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8152,18 +8172,19 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "fe9d65a0-1926-40e4-8453-5091d5ba6650")
-		(property "Netclass" "senyal micro"
-			(at 254.6985 208.28 0)
+		(uuid "f4ef894e-ecc4-49bb-a177-5cfedf4ead7e")
+		(property "Netclass" "senyal"
+			(at 262.3185 200.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Component Class" ""
-			(at -195.58 135.89 0)
+			(at -77.47 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
