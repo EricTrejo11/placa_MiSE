@@ -1,4 +1,4 @@
-24761785763773606
+24772418366622791
 1N4002
 DIOAD520W79L463D238
 
@@ -65918,6 +65918,48 @@ SOT-5_S
 0
 5
 5
+MiSE
+LCD_2x16_I2C(Midas)
+Through hole straight pin header, 2x04, 2.54mm pitch, double rows
+Through hole pin header THT 2x04 2.54mm double row
+0
+12
+12
+MiSE
+LDR
+Through hole straight pin header, 1x02, 2.54mm pitch, single row
+Through hole pin header THT 1x02 2.54mm single row
+0
+2
+2
+MiSE
+QFP50P900X900X160-48N
+PT (S-PQFP-G48) -1
+Integrated Circuit
+0
+48
+48
+MiSE
+THB001P
+THB001P-5
+Switch
+0
+14
+14
+MiSE
+Trimmer_MiSE
+Potentiometer, vertical, Trimmer, RM-065 https://components101.com/sites/default/files/component_datasheet/Preset%20Potentiometer%20%28Trimpot%29.pdf
+Potentiometer Trimmer RM-065
+0
+3
+3
+MiSE
+conn_DFrobot
+
+
+0
+19
+19
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
