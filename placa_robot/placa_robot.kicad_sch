@@ -7546,7 +7546,7 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
-		(at 253.3135 210.82 0)
+		(at 393.7 58.42 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7554,19 +7554,18 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "0ae361cf-62d3-4252-b4d4-fed343fd3590")
-		(property "Netclass" "senyal"
-			(at 254.012 208.28 0)
+		(uuid "0b4d14f4-6a12-415b-a58c-cabec6aef9d2")
+		(property "Netclass" "MCU"
+			(at 394.3985 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Component Class" ""
-			(at -85.7765 71.12 0)
+			(at 63.5 -146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7578,7 +7577,7 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
-		(at 290.83 58.42 0)
+		(at 125.73 143.51 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7586,19 +7585,18 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "0bf0b5e9-c49c-435f-932b-e3ac14755097")
-		(property "Netclass" "senyal"
-			(at 291.5285 55.88 0)
+		(uuid "1276d63d-bc9e-43c6-89a1-96ad2fae8705")
+		(property "Netclass" "MCU"
+			(at 126.4285 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Component Class" ""
-			(at -48.26 -81.28 0)
+			(at -204.47 -60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7610,7 +7608,7 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
-		(at 259.08 215.9 0)
+		(at 165.1 204.47 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7618,19 +7616,18 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "1726cd46-4941-4628-bf9d-a15c8885078a")
-		(property "Netclass" "senyal"
-			(at 259.7785 213.36 0)
+		(uuid "18807275-2e66-4b4d-b31b-609d0233f469")
+		(property "Netclass" "MCU"
+			(at 165.7985 201.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Component Class" ""
-			(at -80.01 76.2 0)
+			(at -165.1 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7674,7 +7671,7 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
-		(at 176.53 240.03 0)
+		(at 260.35 205.74 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7682,19 +7679,18 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "219a3951-e397-4fc0-b829-8810b278e6db")
-		(property "Netclass" "senyal"
-			(at 177.2285 237.49 0)
+		(uuid "26cccd10-6dc8-4ea6-a9a5-d2dd36dd7a6c")
+		(property "Netclass" "MCU"
+			(at 261.0485 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Component Class" ""
-			(at -162.56 100.33 0)
+			(at -69.85 1.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7706,7 +7702,7 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
-		(at 275.59 205.74 0)
+		(at 308.61 208.28 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7714,19 +7710,18 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "22299225-8ab0-4e01-be4d-c1c849056411")
+		(uuid "27d6d8f7-d712-484c-9842-913c3638ac92")
 		(property "Netclass" "senyal"
-			(at 276.2885 203.2 0)
+			(at 309.3085 205.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Component Class" ""
-			(at -63.5 66.04 0)
+			(at -91.44 8.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7770,6 +7765,37 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
+		(at 254 210.82 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "342b42ef-bc13-4eda-a0d5-bd5a4007d014")
+		(property "Netclass" "MCU"
+			(at 254.6985 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Component Class" ""
+			(at -76.2 6.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
 		(at 393.7 80.01 0)
 		(fields_autoplaced yes)
 		(effects
@@ -7778,19 +7804,18 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "349621a4-c8f0-4506-b98f-06d28ddc02dd")
-		(property "Netclass" "senyal"
+		(uuid "4a6b3f72-8625-436a-a3db-8c6820fb1cf2")
+		(property "Netclass" "MCU"
 			(at 394.3985 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Component Class" ""
-			(at 54.61 -59.69 0)
+			(at 63.5 -124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7802,7 +7827,7 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
-		(at 99.06 104.14 0)
+		(at 248.92 208.28 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7810,19 +7835,18 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "3e36c067-3629-438a-9c75-129bab4c28db")
-		(property "Netclass" "senyal"
-			(at 99.7585 101.6 0)
+		(uuid "57fc1334-4dad-4968-a920-135df36abc97")
+		(property "Netclass" "MCU"
+			(at 249.6185 205.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Component Class" ""
-			(at -240.03 -35.56 0)
+			(at -81.28 3.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7834,7 +7858,7 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
-		(at 261.4229 218.44 0)
+		(at 259.08 215.9 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7842,19 +7866,18 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "5ddf520e-c763-45f6-9bc9-d49908644f2a")
-		(property "Netclass" "senyal"
-			(at 262.1214 215.9 0)
+		(uuid "5bca300e-0651-4ebd-87bb-72c9cb8fa2cb")
+		(property "Netclass" "MCU"
+			(at 259.7785 213.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Component Class" ""
-			(at -77.6671 78.74 0)
+			(at -71.12 11.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7866,7 +7889,7 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
-		(at 128.27 151.13 0)
+		(at 125.73 114.3 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7874,19 +7897,18 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "71334a64-c674-41f9-9655-9fb6bef9c26d")
-		(property "Netclass" "senyal"
-			(at 128.9685 148.59 0)
+		(uuid "6bb4cde2-eefb-440f-84ec-f6a6fc280ec7")
+		(property "Netclass" "MCU"
+			(at 126.4285 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Component Class" ""
-			(at -210.82 11.43 0)
+			(at -204.47 -90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7898,7 +7920,7 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
-		(at 256.2097 213.36 0)
+		(at 289.56 60.96 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7906,19 +7928,18 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "82da786f-30e8-4c0a-8c35-bdfc05b050ee")
-		(property "Netclass" "senyal"
-			(at 256.9082 210.82 0)
+		(uuid "7b11a1fc-3d72-4530-af51-d8879ce2eb48")
+		(property "Netclass" "MCU"
+			(at 290.2585 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Component Class" ""
-			(at -82.8803 73.66 0)
+			(at -40.64 -143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7930,7 +7951,7 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
-		(at 290.826 60.96 0)
+		(at 123.19 116.84 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7938,19 +7959,49 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "84c38060-cfc8-4b89-8fbd-071d7766cae1")
-		(property "Netclass" "senyal"
-			(at 291.5245 58.42 0)
+		(uuid "8315f977-bc30-4555-b111-1dfd335b2e4b")
+		(property "Netclass" "MCU"
+			(at 123.8885 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Component Class" ""
-			(at -48.264 -78.74 0)
+			(at -207.01 -87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 193.04 50.8172 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "88f4d8ad-86c2-4a04-a11b-909a412100f7")
+		(property "Netclass" "MCU"
+			(at 193.7385 48.2772 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Component Class" ""
+			(at -137.16 -153.6528 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7994,7 +8045,7 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
-		(at 112.0174 50.8 0)
+		(at 186.69 240.03 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8002,19 +8053,18 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "97472f62-cb48-4802-bfce-e137e7bdaa1e")
-		(property "Netclass" "senyal"
-			(at 112.7159 48.26 0)
+		(uuid "955280d4-829e-44e7-a20c-af7039caad71")
+		(property "Netclass" "MCU"
+			(at 187.3885 237.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Component Class" ""
-			(at -227.0726 -88.9 0)
+			(at -143.51 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8026,7 +8076,7 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
-		(at 95.25 116.84 0)
+		(at 186.69 237.49 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8034,19 +8084,18 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "9cb3f569-8114-4feb-95c1-cd83b6919957")
-		(property "Netclass" "senyal"
-			(at 95.9485 114.3 0)
+		(uuid "a898b760-5e6d-4721-87d7-cd7acdc6866f")
+		(property "Netclass" "MCU"
+			(at 187.3885 234.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Component Class" ""
-			(at -243.84 -22.86 0)
+			(at -143.51 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8058,7 +8107,7 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
-		(at 307.34 208.28 0)
+		(at 287.02 58.42 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8066,19 +8115,18 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "9ed2dc4e-9c6f-4dc0-bebb-cef1127ac252")
-		(property "Netclass" "senyal"
-			(at 308.0385 205.74 0)
+		(uuid "b36d1c24-f3a7-4dc8-8afc-a9c6b746cf45")
+		(property "Netclass" "MCU"
+			(at 287.7185 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Component Class" ""
-			(at -31.75 68.58 0)
+			(at -43.18 -146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8090,7 +8138,7 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
-		(at 251.46 208.28 0)
+		(at 195.58 48.26 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8098,83 +8146,18 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "a1673fa0-273b-4c96-8077-04168c9d6428")
-		(property "Netclass" "senyal"
-			(at 252.1585 205.74 0)
+		(uuid "ccaa7156-d1e5-4d09-8515-3f6bcc665ba4")
+		(property "Netclass" "MCU"
+			(at 196.2785 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Component Class" ""
-			(at -87.63 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-			)
-		)
-	)
-	(netclass_flag ""
-		(length 2.54)
-		(shape round)
-		(at 184.15 204.47 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "a39e461b-42e8-4639-bc60-73019d87b004")
-		(property "Netclass" "senyal"
-			(at 184.8485 201.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Component Class" ""
-			(at -154.94 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-			)
-		)
-	)
-	(netclass_flag ""
-		(length 2.54)
-		(shape round)
-		(at 125.73 143.51 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "b9be076d-0475-4ed3-8c0b-bacfe8153f32")
-		(property "Netclass" "senyal"
-			(at 126.4285 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Component Class" ""
-			(at -213.36 3.81 0)
+			(at -134.62 -156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8194,19 +8177,18 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "bb892879-ff3d-4b6c-a89f-ca2a8b6a3dff")
-		(property "Netclass" "senyal"
+		(uuid "d9935459-a337-42e8-9c05-a8082243cc37")
+		(property "Netclass" "MCU"
 			(at 123.8885 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Component Class" ""
-			(at -215.9 1.27 0)
+			(at -207.01 -63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8218,7 +8200,7 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
-		(at 393.7 58.42 0)
+		(at 261.3349 218.44 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8226,19 +8208,18 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "ca43c315-9438-4f1c-9c4b-f618e198eb25")
-		(property "Netclass" "senyal"
-			(at 394.3985 55.88 0)
+		(uuid "e09023dd-b016-4ddf-bd6f-bca2a8101c9e")
+		(property "Netclass" "MCU"
+			(at 262.0334 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Component Class" ""
-			(at 54.61 -81.28 0)
+			(at -68.8651 13.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8250,7 +8231,7 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
-		(at 311.15 146.05 0)
+		(at 293.37 63.5 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8258,51 +8239,18 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "cab2f88e-1290-4096-babd-d49f15278de6")
-		(property "Netclass" "senyal"
-			(at 311.8485 143.51 0)
+		(uuid "e397fdbe-fd99-415d-8fae-aebc05c10e02")
+		(property "Netclass" "MCU"
+			(at 294.0685 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Component Class" ""
-			(at -27.94 6.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-			)
-		)
-	)
-	(netclass_flag ""
-		(length 2.54)
-		(shape round)
-		(at 109.22 48.26 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "d759dbbc-de70-482a-a96f-83d510a28566")
-		(property "Netclass" "senyal"
-			(at 109.9185 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Component Class" ""
-			(at -229.87 -91.44 0)
+			(at -36.83 -140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8346,7 +8294,7 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
-		(at 261.62 203.2 0)
+		(at 256.3148 213.36 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8354,19 +8302,49 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "f4ef894e-ecc4-49bb-a177-5cfedf4ead7e")
-		(property "Netclass" "senyal"
-			(at 262.3185 200.66 0)
+		(uuid "f965345b-383e-4ece-9977-18f7ea77f335")
+		(property "Netclass" "MCU"
+			(at 257.0133 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Component Class" ""
-			(at -77.47 63.5 0)
+			(at -73.8852 8.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 260.35 203.2 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ffc83bab-b782-462f-868b-222e9ff6c728")
+		(property "Netclass" "MCU"
+			(at 261.0485 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Component Class" ""
+			(at -69.85 -1.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)

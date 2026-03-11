@@ -486,7 +486,7 @@
         "wire_width": 6
       },
       {
-        "bus_width": 1,
+        "bus_width": 30,
         "clearance": 0.2,
         "diff_pair_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -502,7 +502,7 @@
         "wire_width": 6
       },
       {
-        "bus_width": 0,
+        "bus_width": 12,
         "clearance": 0.2,
         "diff_pair_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -518,6 +518,7 @@
         "wire_width": 6
       },
       {
+        "bus_width": 20,
         "clearance": 0.2,
         "diff_pair_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -526,10 +527,11 @@
         "name": "senyal",
         "pcb_color": "rgb(255, 15, 0)",
         "priority": 0,
-        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "schematic_color": "rgb(26, 255, 0)",
         "track_width": 0.5,
         "via_diameter": 0.6,
-        "via_drill": 0.3
+        "via_drill": 0.3,
+        "wire_width": 6
       }
     ],
     "meta": {
@@ -538,73 +540,73 @@
     "net_colors": null,
     "netclass_assignments": {
       "/DOWN": [
-        "senyal"
+        "MCU"
       ],
       "/JOY_BOTTON": [
-        "senyal"
+        "MCU"
       ],
       "/LCD_RST": [
-        "senyal"
+        "MCU"
       ],
       "/LEFT": [
-        "senyal"
+        "MCU"
       ],
       "/LSB": [
         "senyal"
       ],
       "/MCU_RST": [
-        "senyal"
+        "MCU"
       ],
       "/MSB": [
         "senyal"
       ],
       "/P0": [
-        "senyal"
+        "MCU"
       ],
       "/P1": [
-        "senyal"
+        "MCU"
       ],
       "/P12": [
-        "senyal"
+        "MCU"
       ],
       "/P2": [
-        "senyal"
+        "MCU"
       ],
       "/P8": [
-        "senyal"
+        "MCU"
       ],
       "/Photo1": [
-        "senyal"
+        "MCU"
       ],
       "/Photo2": [
-        "senyal"
+        "MCU"
       ],
       "/RIGHT": [
-        "senyal"
+        "MCU"
       ],
       "/SBW": [
-        "senyal"
+        "MCU"
       ],
       "/SCL": [
-        "senyal"
+        "MCU"
       ],
       "/SDA": [
-        "senyal"
+        "MCU"
       ],
       "/UP": [
-        "senyal"
+        "MCU"
       ],
       "/WIFI_RXD": [
-        "senyal"
+        "MCU"
       ],
       "/WIFI_TXD": [
-        "senyal"
+        "MCU"
       ],
       "/XIN": [
-        "senyal"
+        "MCU"
       ],
       "/XOUT": [
-        "senyal"
+        "MCU"
       ],
       "Net-(IC1-P2.6{slash}MCLK{slash}XOUT)": [
         "senyal"
@@ -692,7 +694,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "",
+      "netlist": "./",
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",

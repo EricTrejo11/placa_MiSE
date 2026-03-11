@@ -1,4 +1,25 @@
-24735605853036833
+24761785763773606
+1N4002
+DIOAD520W79L463D238
+
+
+0
+2
+2
+2-1437565-7
+SW_2-1437565-7
+
+
+0
+4
+4
+2N2222
+TO127P580H530-3
+
+
+0
+3
+3
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -55229,6 +55250,13 @@ SMD SMT ceramic resonator filter filter hand-soldering
 0
 3
 3
+DB9
+DB9
+<b>SUB-D</b>
+
+0
+11
+11
 Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
@@ -58295,6 +58323,20 @@ Fuse Fuseholder TR5 Littelfuse/Wickmann No. 460 No560
 0
 2
 2
+GP2Y0A21YK0F
+22-23-2031
+<b>KK® 254 Solid Header, Vertical, with Friction Lock, 3 Circuits, Tin (Sn) Plating</b><p><a href =http://www.molex.com/pdm_docs/sd/022232031_sd.pdf>Datasheet </a>
+
+0
+3
+3
+HDC2010YPAR
+BGA6C100X50P2X3_HDC2010YPAR
+
+
+0
+6
+6
 Heatsink
 Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35
 Heatsink, 35mm x 26mm, 1x Fixation 3mm, Fischer SK486-35
@@ -65848,6 +65890,34 @@ Yellow 5381 Series LED
 0
 2
 2
+LM1117
+DPACK
+<b>DPAK</b><p>PLASTIC PACKAGE CASE 369C-01<br>Source: http://www.onsemi.co.jp .. LM317M-D.PDF
+
+0
+3
+3
+LM1117
+SOT223
+<b>Small Outline Transistor 223</b><p>PLASTIC PACKAGE CASE 318E-04<br>Source: http://www.onsemi.co.jp .. LM137M-D.PDF
+
+0
+4
+4
+LM1117MPX-5.0NOPB
+SOT230P696X180-4N
+
+
+0
+4
+4
+LT1716IS5TRMPBF
+SOT-5_S
+
+
+0
+5
+5
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -69796,6 +69866,34 @@ DIL DIP PDIP 2.54mm 7.62mm 300mil
 0
 4
 4
+PIC18F27J53-ISS
+28-SSOP
+28-SOP, 0.65 mm pitch, 8.00 mm span, 10.35 X 5.45 X 2.00 mm body <p>28-pin SOP package with 0.65 mm pitch, 8.00 mm span with body size 10.35 X 5.45 X 2.00 mm</p>
+
+0
+28
+28
+PIC18F27J53-ISS
+SSOP28_MC_MCH-L
+
+
+0
+28
+28
+PIC18F27J53-ISS
+SSOP28_MC_MCH-M
+
+
+0
+28
+28
+PIC18F258-I_SO
+SOIC127P1030X265-28N
+
+
+0
+28
+28
 Package_BGA
 Alliance_TFBGA-36_6x8mm_Layout6x8_P0.75mm
 Alliance TFBGA-36, NSMD, 6.0x8.0mm, 36 Ball, 6x8 Layout, 0.75mm Pitch, https://www.alliancememory.com/wp-content/uploads/pdf/AS6C1008_Mar_2023V1.2.pdf
@@ -88906,6 +89004,13 @@ WiFi IEEE802.11 b/g/n
 0
 44
 44
+RT314012
+RELAY_9-1393239-5
+
+
+0
+8
+8
 Relay_SMD
 Relay_2P2T_10x6mm_TE_IMxxG
 Signal Relay, 10x6mm, 2 Form C, Gull Wings, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7F108-98001%7FZ.1%7Fpdf%7FEnglish%7FENG_DS_108-98001_Z.1.pdf
