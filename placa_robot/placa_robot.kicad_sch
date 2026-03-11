@@ -5025,16 +5025,6 @@
 	)
 	(wire
 		(pts
-			(xy 193.04 199.39) (xy 193.04 218.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0350892f-4517-451a-842b-80714a5f6ec1")
-	)
-	(wire
-		(pts
 			(xy 215.9 257.81) (xy 222.25 257.81)
 		)
 		(stroke
@@ -5095,16 +5085,6 @@
 	)
 	(wire
 		(pts
-			(xy 200.66 199.39) (xy 200.66 210.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0c0b0824-a0c9-4000-915c-1da11def5e13")
-	)
-	(wire
-		(pts
 			(xy 90.17 160.02) (xy 95.25 160.02)
 		)
 		(stroke
@@ -5122,6 +5102,16 @@
 			(type default)
 		)
 		(uuid "0c29ab01-9aec-4f49-afe9-c58f645d7402")
+	)
+	(wire
+		(pts
+			(xy 198.12 199.39) (xy 198.12 213.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0c45578e-ed39-42a3-8b0d-f2b0c3469449")
 	)
 	(wire
 		(pts
@@ -5235,6 +5225,16 @@
 	)
 	(wire
 		(pts
+			(xy 195.58 210.82) (xy 195.58 199.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1a8fd74f-c563-49f6-8f5b-72d8eab9f33c")
+	)
+	(wire
+		(pts
 			(xy 95.25 147.32) (xy 90.17 147.32)
 		)
 		(stroke
@@ -5315,13 +5315,13 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 199.39) (xy 198.12 213.36)
+			(xy 193.04 208.28) (xy 251.46 208.28)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "25792847-0eaf-44bd-ad58-628c59d155c4")
+		(uuid "2505d66a-da24-451d-9342-cf0203cef70a")
 	)
 	(wire
 		(pts
@@ -5615,16 +5615,6 @@
 	)
 	(wire
 		(pts
-			(xy 203.2 199.39) (xy 203.2 208.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4921f38b-babf-4549-a7b0-18ed2afba270")
-	)
-	(wire
-		(pts
 			(xy 336.55 124.46) (xy 336.55 135.89)
 		)
 		(stroke
@@ -5725,7 +5715,7 @@
 	)
 	(wire
 		(pts
-			(xy 259.08 215.9) (xy 195.58 215.9)
+			(xy 259.08 215.9) (xy 200.66 215.9)
 		)
 		(stroke
 			(width 0)
@@ -5772,6 +5762,16 @@
 			(type default)
 		)
 		(uuid "573eb35d-e7f7-4d6e-a07a-898b9cd76a0f")
+	)
+	(wire
+		(pts
+			(xy 195.58 210.82) (xy 254 210.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "58baa6f3-bbd0-478e-859e-e857abc31af7")
 	)
 	(wire
 		(pts
@@ -5842,16 +5842,6 @@
 			(type default)
 		)
 		(uuid "615e7645-bd97-444c-810f-59cbf58a077c")
-	)
-	(wire
-		(pts
-			(xy 254 210.82) (xy 200.66 210.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "62aacf08-1a1a-4d13-94e7-fe57186f0e6e")
 	)
 	(wire
 		(pts
@@ -5952,16 +5942,6 @@
 			(type default)
 		)
 		(uuid "6a967410-e32b-4b22-baf5-703690647710")
-	)
-	(wire
-		(pts
-			(xy 195.58 215.9) (xy 195.58 199.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6aa2c6f9-82ac-4218-a4f8-5572a217b02f")
 	)
 	(wire
 		(pts
@@ -6195,6 +6175,16 @@
 	)
 	(wire
 		(pts
+			(xy 200.66 199.39) (xy 200.66 215.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "894331c7-7f53-48f8-bd04-fd858f35c07e")
+	)
+	(wire
+		(pts
 			(xy 64.77 224.79) (xy 73.66 224.79)
 		)
 		(stroke
@@ -6402,6 +6392,16 @@
 			(type default)
 		)
 		(uuid "a1dec009-49f8-4815-a2d2-626efd63d582")
+	)
+	(wire
+		(pts
+			(xy 193.04 199.39) (xy 193.04 208.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a2b5c738-a455-492c-93d3-d819096ef2de")
 	)
 	(wire
 		(pts
@@ -6975,7 +6975,7 @@
 	)
 	(wire
 		(pts
-			(xy 261.62 218.44) (xy 193.04 218.44)
+			(xy 261.62 218.44) (xy 203.2 218.44)
 		)
 		(stroke
 			(width 0)
@@ -7002,16 +7002,6 @@
 			(type default)
 		)
 		(uuid "e2c9fdbb-66a4-4396-9bb0-0f0d7a414a36")
-	)
-	(wire
-		(pts
-			(xy 251.46 208.28) (xy 203.2 208.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e3043ed5-a93a-4b07-8470-f6e166c289db")
 	)
 	(wire
 		(pts
@@ -7062,6 +7052,16 @@
 			(type default)
 		)
 		(uuid "e929bc2b-e208-464c-8034-f5359291f624")
+	)
+	(wire
+		(pts
+			(xy 203.2 199.39) (xy 203.2 218.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e952bfc4-f4ae-4cb0-93b0-7b894766580d")
 	)
 	(wire
 		(pts
@@ -12308,7 +12308,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Horizontal"
+		(property "Footprint" "MiSE:LCD_2x16_I2C(Midas)"
 			(at 55.88 195.58 0)
 			(effects
 				(font
