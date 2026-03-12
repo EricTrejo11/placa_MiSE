@@ -653,6 +653,9 @@
       "Net-(J3-Pin_6)": [
         "senyal"
       ],
+      "Net-(JP1-A)": [
+        "senyal"
+      ],
       "Net-(S2-2')": [
         "senyal"
       ],
