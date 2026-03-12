@@ -575,6 +575,9 @@
       "/P8": [
         "MCU"
       ],
+      "/Pantalla_LCD": [
+        "senyal"
+      ],
       "/Photo1": [
         "MCU"
       ],
