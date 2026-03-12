@@ -37,7 +37,7 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.6,
+          "drill": 0.5,
           "height": 1.0,
           "width": 1.0
         },
@@ -60,8 +60,8 @@
       ],
       "drc_exclusions": [
         [
-          "malformed_courtyard|162905000|100637500|256f8aea-3196-4564-a6b9-bd54cbaae079|00000000-0000-0000-0000-000000000000",
-          ""
+          "malformed_courtyard|138595000|100637500|256f8aea-3196-4564-a6b9-bd54cbaae079|00000000-0000-0000-0000-000000000000",
+          "La huella esta mal hecha"
         ]
       ],
       "meta": {
